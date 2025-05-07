@@ -1,0 +1,49 @@
+Age_intervals:
+  Age_interval_1: [np.float64(2.109303003406991), np.float64(16.68603012291841)]
+  Age_interval_2: [np.float64(16.68603012291841), np.float64(31.262757242429828)]
+  Age_interval_3: [np.float64(31.262757242429828), np.float64(45.839484361941246)]
+  Age_interval_4: [np.float64(45.839484361941246), np.float64(60.41621148145266)]
+  Age_interval_5: [np.float64(60.41621148145266), np.float64(74.99293860096408)]
+
+EF_intervals:
+  EF_interval_1: [np.float64(185.0559006118378), np.float64(217.97607735302918)]
+  EF_interval_2: [np.float64(217.97607735302918), np.float64(250.89625409422058)]
+  EF_interval_3: [np.float64(250.89625409422058), np.float64(283.81643083541195)]
+  EF_interval_4: [np.float64(283.81643083541195), np.float64(316.7366075766033)]
+  EF_interval_5: [np.float64(316.7366075766033), np.float64(349.6567843177947)]
+
+weight_intervals:
+  weight_interval_1: [np.float64(11.0), np.float64(26.6)]
+  weight_interval_2: [np.float64(26.6), np.float64(42.2)]
+  weight_interval_3: [np.float64(42.2), np.float64(57.8)]
+  weight_interval_4: [np.float64(57.8), np.float64(73.4)]
+  weight_interval_5: [np.float64(73.4), np.float64(89.0)]
+
+rice_use_intervals:
+  rice_use_interval_1: [np.float64(0.0600079741810677), np.float64(0.13170216180194833)]
+  rice_use_interval_2: [np.float64(0.13170216180194833), np.float64(0.20339634942282894)]
+  rice_use_interval_3: [np.float64(0.20339634942282894), np.float64(0.27509053704370956)]
+  rice_use_interval_4: [np.float64(0.27509053704370956), np.float64(0.34678472466459015)]
+  rice_use_interval_5: [np.float64(0.34678472466459015), np.float64(0.4184789122854708)]
+
+pasta_use_intervals:
+  pasta_use_interval_1: [np.float64(0.03042978414313191), np.float64(0.14386295122252585)]
+  pasta_use_interval_2: [np.float64(0.14386295122252585), np.float64(0.2572961183019198)]
+  pasta_use_interval_3: [np.float64(0.2572961183019198), np.float64(0.37072928538131367)]
+  pasta_use_interval_4: [np.float64(0.37072928538131367), np.float64(0.4841624524607076)]
+  pasta_use_interval_5: [np.float64(0.4841624524607076), np.float64(0.5975956195401015)]
+
+ED_intervals:
+  ED_interval_1: [np.float64(0.5058044815499055), np.float64(1.6037585015834046)]
+  ED_interval_2: [np.float64(1.6037585015834046), np.float64(2.701712521616904)]
+  ED_interval_3: [np.float64(2.701712521616904), np.float64(3.7996665416504034)]
+  ED_interval_4: [np.float64(3.7996665416504034), np.float64(4.897620561683902)]
+  ED_interval_5: [np.float64(4.897620561683902), np.float64(5.995574581717401)]
+
+RBA_intervals:
+  RBA_interval_1: [np.float64(1.1771002516980653), np.float64(1.7801886437478203)]
+  RBA_interval_2: [np.float64(1.7801886437478203), np.float64(2.383277035797575)]
+  RBA_interval_3: [np.float64(2.383277035797575), np.float64(2.98636542784733)]
+  RBA_interval_4: [np.float64(2.98636542784733), np.float64(3.589453819897085)]
+  RBA_interval_5: [np.float64(3.589453819897085), np.float64(4.19254221194684)]
+
